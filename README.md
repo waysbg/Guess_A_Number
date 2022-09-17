@@ -7,8 +7,8 @@ Source Code: https://github.com/waysbg/Guess_A_Number/blob/main/Guess_A_Number.p
 <br>
 <br>
 <br>
-*"Guess A Number" is a game in which "the computer", chooses a random number between "1 and 100", and your task is to guess this number.*<br>
-*After each number you enter, the computer will give you a hint of whether the number is greater or less than the number you selected.*<br>
+*"Guess A Number" is a game in which "the computer", chooses a random number between "1 and 100", and your task is to guess this number.
+After each number you enter, the computer will give you a hint of whether the number is greater or less than the number you selected.*<br>
 *You win once you guess the correct number.*<br>
 <br>
 <br>
