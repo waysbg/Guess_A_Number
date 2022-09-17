@@ -1,6 +1,7 @@
 ## Guess A Number
 Created as an exercise during SoftUni fundamental course: Sep-2022<br>
-Main idea of the whole project is to exercise with Git, GitHub, and python fundamentals<br>
+<sub>Main idea of the whole project is to exercise with Git, GitHub, and python fundamentals</sub><br>
+<br>
 <br>
 Source Code: https://github.com/waysbg/Guess_A_Number/blob/main/Guess_A_Number.py
 <br>
